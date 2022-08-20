@@ -1,4 +1,4 @@
-# Hi!
+# 👋 Hi
 
 I'm Daniel. I work as a software professional. I'm interested in concurrency, correctness of designs _and_ implementations, algorithms broadly speaking, and data structures. I try to create evidence or proof based solutions that are sympathetic to machines, my colleagues, and the organisation I work for.
 
